@@ -101,6 +101,6 @@ Working on this.
 
 ## Acknowledgments
 
-- Acknowledge any open-source projects, libraries, or other resources you used.
+Working on this.
 
 
